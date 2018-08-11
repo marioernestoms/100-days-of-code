@@ -7,3 +7,5 @@
 #3/100 Today I go back to work in Ajax Login Form plugin, I tried to move function to start ajax to the functions.php file from the plugin folder, but this doesn't work. tmrw I'll go back trie to do this.
 
 ‪#4/100 Start front-end of Ajax Login Form plugin, I still need fix problem with function start Ajax. ‬
+
+#5/100 Today wasn’t a good day, I only study a little Ajax with WordPress. But still not success with Ajax function on plugin form login.
