@@ -9,3 +9,5 @@
 ‪#4/100 Start front-end of Ajax Login Form plugin, I still need fix problem with function start Ajax. ‬
 
 #5/100 Today wasn’t a good day, I only study a little Ajax with WordPress. But still not success with Ajax function on plugin form login.
+
+‪#6/100 Lot of HTML and CSS today for a tem enployee system the second project for this challenge :)‬
