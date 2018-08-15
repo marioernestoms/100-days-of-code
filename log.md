@@ -13,3 +13,5 @@
 ‪#6/100 Lot of HTML and CSS today for a tem enployee system the second project for this challenge :)‬
 
 ‪#7 I start study #React and using in some tests to create blocks for Guttemberg. I need prepare my self to the new text editor of WordPress.‬
+
+‪#8 Today I start the React Ninja course on udemy, a course that my friend @fdaciuk is teacher. And try to use somethings on Guttemberg blocks!‬
