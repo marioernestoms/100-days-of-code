@@ -12,6 +12,8 @@
 
 ‪#6/100 Lot of HTML and CSS today for a tem enployee system the second project for this challenge :)‬
 
-‪#7 I start study #React and using in some tests to create blocks for Guttemberg. I need prepare my self to the new text editor of WordPress.‬
+‪#7/100 I start study #React and using in some tests to create blocks for Guttemberg. I need prepare my self to the new text editor of WordPress.‬
 
-‪#8 Today I start the React Ninja course on udemy, a course that my friend @fdaciuk is teacher. And try to use somethings on Guttemberg blocks!‬
+‪#8/100 Today I start the React Ninja course on udemy, a course that my friend @fdaciuk is teacher. And try to use somethings on Guttemberg blocks!‬
+
+#9/100 Today I study something that I need record about #javascript to advanced with my studies on #React. After this, I started play front-end screens to my employee portal. I so excited to finish this 2 projects in this 100 days :)
