@@ -19,3 +19,5 @@
 #9/100 Today I study something that I need record about #javascript to advanced with my studies on #React. After this, I started play front-end screens to my employee portal. I so excited to finish this 2 projects in this 100 days :)
 
 #10/100 2 hours of study #Ajax requests with #WordPress in @udemy very amazing course that I'm bought a long time ago and never started. The best thing about doing the challenge is that I finally start things that I wanted and never get started. projects and courses.
+
+‪#11/100 more 2 hours of study #Ajax requests with #WordPress in @udemy and finally finish de course now I’ll apply everything that I learn in one personal project.‬
