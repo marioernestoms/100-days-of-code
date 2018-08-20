@@ -21,3 +21,5 @@
 #10/100 2 hours of study #Ajax requests with #WordPress in @udemy very amazing course that I'm bought a long time ago and never started. The best thing about doing the challenge is that I finally start things that I wanted and never get started. projects and courses.
 
 ‪#11/100 more 2 hours of study #Ajax requests with #WordPress in @udemy and finally finish de course now I’ll apply everything that I learn in one personal project.‬
+
+#12/100 Today I started the initial structure of the WordPress theme that I will do for the main project of my challenge, which is project dashboard Team Employers. 
