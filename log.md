@@ -25,3 +25,8 @@
 #12/100 Today I started the initial structure of the WordPress theme that I will do for the main project of my challenge, which is project dashboard Team Employers. 
 
 #13/100 My certificate, of course, conclusion "WordPress Expert - Ajax without secrets!" @udemy, Now let's go to Dashboard Team Employees project!
+
+#14/100 Today I work on my new personal portfolio and put this on GitHub, at the moment is the only HTML. https://github.com/marioernestoms/portfolio-2018
+
+
+
