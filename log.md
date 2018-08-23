@@ -28,5 +28,5 @@
 
 #14/100 Today I work on my new personal portfolio and put this on GitHub, at the moment is the only HTML. https://github.com/marioernestoms/portfolio-2018
 
-
+#15/100 Advanced with development front-end of my personal portfolio, but I have a lot of problems with the design, It's definitely not my expertise. If anyone knows an amazing designer msg me plz.
 
