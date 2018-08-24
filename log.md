@@ -30,3 +30,4 @@
 
 #15/100 Advanced with development front-end of my personal portfolio, but I have a lot of problems with the design, It's definitely not my expertise. If anyone knows an amazing designer msg me plz.
 
+#16 Today was a massive work day, so I only watch 1 lesson of course React.js. but never stop de challenge :)
