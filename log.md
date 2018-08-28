@@ -36,3 +36,5 @@
 ‪
 #18/100 more 2 hours of study React, and some tests in a Guttemberg blocks.‬
 
+#19/100 study more JavaScript and try to do some tests to increase the khowledge. Tomorrow I’ll go back to tem employee project to apply some js code.
+
