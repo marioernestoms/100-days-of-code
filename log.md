@@ -38,3 +38,5 @@
 
 #19/100 study more JavaScript and try to do some tests to increase the khowledge. Tomorrow I’ll go back to tem employee project to apply some js code.
 
+#20/100 20 days lot of progress. Finally started the courses that I’m bought 3  years ago. Today I continuous with Reac.js course. And apply on guttemberg blocks for WordPress. ‬
+
