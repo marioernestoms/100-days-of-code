@@ -40,3 +40,5 @@
 
 #20/100 20 days lot of progress. Finally started the courses that I’m bought 3  years ago. Today I continuous with Reac.js course. And apply on guttemberg blocks for WordPress. ‬
 
+‪#21/100 Today I only can take 1 class of React course. Lot of Work ‬
+
