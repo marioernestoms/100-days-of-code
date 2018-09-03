@@ -40,5 +40,9 @@
 
 #20/100 20 days lot of progress. Finally started the courses that I’m bought 3  years ago. Today I continuous with Reac.js course. And apply on guttemberg blocks for WordPress. ‬
 
+‪#22/100 Today I didn’t have to much time. But study I little React for don’t leave the day blank. ‬
+
+
 ‪#21/100 Today I only can take 1 class of React course. Lot of Work ‬
 
+‪#22 Today I didn’t have to much time. But study I little React for don’t leave the day blank. ‬
