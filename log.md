@@ -45,4 +45,4 @@
 
 ‪#21/100 Today I only can take 1 class of React course. Lot of Work ‬
 
-‪#22 Today I didn’t have to much time. But study I little React for don’t leave the day blank. ‬
+‪#22/100 Today I didn’t have to much time. But study I little React for don’t leave the day blank. ‬
